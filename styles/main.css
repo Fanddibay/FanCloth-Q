@@ -1,0 +1,321 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+main {
+  overflow: hidden;
+}
+
+nav {
+  background: transparent;
+  background: #1f2626;
+  opacity: 0.89;
+}
+
+.infoHeroTitle .btn {
+  background: transparent;
+  width: 438px;
+  height: 106px;
+  background: #077e7b;
+  opacity: 0.89;
+  border-radius: 15px;
+}
+
+.infoHeroTitle .btn span {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 30px;
+  margin-left: 40px;
+}
+
+.float-right-edit {
+  margin-right: 25px;
+  margin-top: 8px;
+}
+
+.heroTitle {
+  color: #077e7b;
+  font-weight: 50 bold;
+  margin-top: 188px;
+  font-size: 50px;
+}
+
+.textNext {
+  font-size: 30px;
+}
+
+.pTitle {
+  padding-top: 305px;
+  font-size: 25px;
+  color: rgba(111, 90, 111, 0.667);
+}
+
+.card {
+  margin-top: 100px;
+}
+
+.infoKet span {
+  font-family: Montserrat;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: left;
+  color: #411061;
+  opacity: 0.6;
+}
+
+.infoKet .infoText {
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 15px;
+  text-align: left;
+  color: #000;
+}
+
+.jumbotron {
+  margin-top: 100px;
+}
+
+.jumbotron h5 {
+  margin-left: 30px;
+}
+
+.jumbotron hr {
+  margin-left: 30px;
+  margin-top: 33px;
+}
+
+.jumbotron-info span {
+  margin-right: 10px;
+}
+
+.jumbotron-info .btn {
+  border-radius: 15px;
+}
+
+.row-custom p {
+  font-size: 20px;
+  color: red;
+}
+
+.infoAbout {
+  margin-top: 100px;
+}
+
+.h2TitleJumbotronInfo {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 50px;
+  text-align: left;
+  color: #228c89;
+  opacity: 0.68;
+}
+
+.jumbotronP {
+  width: 519px;
+  height: 319px;
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 25px;
+  text-align: left;
+  color: #040404;
+  opacity: 0.6;
+}
+
+.infoCaorsel img {
+  margin-top: 100px;
+  width: 1280px;
+  height: 350px;
+  background: transparent;
+}
+
+.infoCaorsel h2 {
+  font-family: Montserrat;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 150px;
+  text-align: center;
+  color: #fafafa;
+  opacity: 0.8;
+  font-size: 100px;
+}
+
+.infoBtn button {
+  border-radius: 15px;
+}
+
+.section-footer {
+  text-decoration: none;
+}
+
+.section-footer a {
+  color: #3f3d3d;
+}
+
+.cardAwal {
+  margin-top: 100px;
+}
+
+.dropdownCard {
+  margin-top: 0;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  border-radius: 15px;
+  background: #f5f5f5;
+  -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+}
+
+.dropdownCard h5 button {
+  text-decoration: none;
+  color: #707070;
+  cursor: pointer;
+}
+
+.dropdownCard img {
+  opacity: 0.7;
+}
+
+.btn a {
+  color: gray;
+}
+
+.btn .btnInfo1 {
+  margin-top: 70px;
+}
+
+.btn .btnInfo1 {
+  margin-bottom: 10px;
+  width: 236px;
+  height: 61px;
+  border-radius: 15px;
+  background: #228c89;
+}
+
+.btn .btnInfo2 {
+  width: 236px;
+  height: 61px;
+  border-radius: 15px;
+  background: #d8d8d8;
+  margin-bottom: 150px;
+}
+
+.card-about {
+  background: #a7b8b7;
+  opacity: 0.7;
+}
+
+.card-about p {
+  color: #000 !important;
+  opacity: 0.8;
+}
+
+.carousel-edit {
+  border-radius: 25px;
+}
+
+.carousel-item {
+  border-radius: 20px;
+}
+
+.mainContent {
+  margin-top: -100px;
+}
+
+.infoHeroTitleCheckout .hr1 {
+  width: 440px;
+  color: black;
+  margin-top: 280px;
+}
+
+.infoHeroTitleCheckout p {
+  margin-top: -288px;
+}
+
+.infoHeroTitleCheckout .hr2 {
+  margin-top: -20px;
+}
+
+.checkout-card {
+  margin-top: 100px;
+}
+
+.checkout-card img {
+  border-radius: 20px;
+  margin-top: 120px;
+}
+
+.heroTitleCard {
+  color: #272727;
+  font-weight: 50 bold;
+  margin-top: 210px;
+  font-size: 50px;
+}
+
+.btnNextCheckout {
+  margin-top: 350px;
+  border-radius: 15px !important;
+}
+
+.btnNextAsking {
+  margin-left: 326px;
+  margin-top: 200px;
+}
+
+.imggProduk {
+  margin-top: -100px;
+}
+
+.gallery .xzoom-container {
+  display: block;
+}
+
+.gallery .xzoom-container .xzoom {
+  width: 96%;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin-bottom: 10px;
+}
+
+.gallery .xzoom-container .xactive {
+  border: 4px solid #1abc9c;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.gallery .xzoom-thumbs {
+  margin-left: -31px;
+}
+
+.gallery .xzoom-gallery {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.addText {
+  margin-top: 300px;
+}
+
+.addText .textAdd {
+  margin-left: -15px;
+}
+/*# sourceMappingURL=main.css.map */

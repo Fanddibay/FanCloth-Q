@@ -1,0 +1,161 @@
+@media only screen and (max-width: 768px) {
+  .carousel-mobile {
+    height: 500px;
+    margin-top: 50px;
+  }
+  .carousel-mobile img {
+    height: 500px;
+  }
+  .iconUser {
+    width: 0;
+    height: 0;
+  }
+  .infoHeroTitle {
+    background-color: rgba(36, 179, 136, 0.652);
+    padding-bottom: 50px;
+  }
+  .infoHeroTitle .heroImg {
+    width: 0;
+    height: 0;
+  }
+  .infoHeroTitle h2 {
+    font-size: 0;
+  }
+  .infoHeroTitle p {
+    margin-top: -250px;
+    margin-left: 5px;
+    text-align: justify;
+    padding-left: 20px;
+    margin-bottom: 50px;
+  }
+  .infoHeroTitle .btn {
+    margin-left: 20px;
+    border-radius: 20px;
+  }
+  .infoHeroTitle span {
+    margin-left: 20px;
+  }
+  .infoProduct {
+    margin-left: 15px;
+  }
+  .jumbotron-info hr {
+    width: 500px;
+    margin-bottom: -40px;
+  }
+  .jumbotron-info img {
+    width: 75%;
+    margin-top: 40px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding-left: 80px;
+  }
+  .jumbotron-info h4 {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: 30px;
+  }
+  .jumbotron-info p {
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-right: 30px;
+  }
+  .jumbotron-info .btn {
+    width: 500px;
+    margin-left: 100px;
+    border-radius: 15px;
+  }
+  .jumbotron-info span {
+    padding-right: 0px;
+    margin-left: 45px;
+  }
+  .infoAbout {
+    margin-bottom: 100px;
+    margin-left: 40px;
+  }
+  .infoAbout img {
+    width: 0;
+    height: 0;
+  }
+  .infoCaorsel h2 {
+    font-size: 100px;
+  }
+  .infoBtn button {
+    border-radius: 15px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .iconUser {
+    width: 0;
+    height: 0;
+  }
+  .infoHeroTitle {
+    border-bottom: 1px solid rgba(89, 86, 86, 0.618);
+  }
+  .infoHeroTitle h2 {
+    font-size: 0;
+  }
+  .infoHeroTitle img {
+    width: 0;
+    height: 0;
+  }
+  .infoHeroTitle h2 {
+    margin-top: 1px;
+    margin-left: 20px;
+  }
+  .infoHeroTitle p {
+    margin-top: -250px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  .infoHeroTitle .btn {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    display: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-left: 40px;
+    margin-bottom: 40px;
+  }
+  .infoHeroTitle .btn span {
+    padding-left: 30px;
+  }
+  .infoAbout img {
+    width: 0;
+    height: 0;
+  }
+  .infoCaorsel h2 {
+    font-size: 60px;
+    margin-bottom: 0px;
+  }
+  .heroTitleCard {
+    margin-top: 50px;
+    margin-bottom: -250px;
+  }
+}
+/*# sourceMappingURL=mobile.css.map */
